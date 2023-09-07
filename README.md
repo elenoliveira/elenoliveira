@@ -1,4 +1,4 @@
-<!--### Hi there 👋
+### Hi there 👋
 
 <!--I am Md Rashedul Alam Anik, currently working as a Software Engineer at the [Enosis Solutions](https://www.enosisbd.com/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:-->
 
@@ -37,4 +37,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenoliveira&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=elenoliveira.elenoliveira)
---!>
