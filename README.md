@@ -3,7 +3,7 @@
 <!--I am Md Rashedul Alam Anik, currently working as a Software Engineer at the [Enosis Solutions](https://www.enosisbd.com/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-ElenOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elen-oliveira-9aab2857/)](https://www.linkedin.com/in/elen-oliveira-9aab2857)
-[![Gmail Badge](https://img.shields.io/badge/-E-mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elenoliveirafernandes@gmail.com)](mailto:elenoliveirafernandes@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-elenoliveirafernandes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elenoliveirafernandes@gmail.com)](mailto:elenoliveirafernandes@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/elenf.oliveira)](https://www.instagram.com/elenf.oliveira)
 <!--[![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
 [![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)-->
