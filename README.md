@@ -19,7 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elenoliveira&layout=compact&theme=default" alt="Linguagens mais usadas" />
+![MostUsedLanguages](<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elenoliveira&layout=compact&theme=default" alt="Linguagens mais usadas" />)
 <!--![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
